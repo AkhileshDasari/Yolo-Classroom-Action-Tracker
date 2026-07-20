@@ -1,0 +1,13 @@
+path: data
+train: train/images
+val: validation/images
+nc: 8
+names:
+- look_forward
+- turn_head
+- using_device
+- read
+- write
+- sleep
+- stand
+- handrise
