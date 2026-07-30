@@ -1,4 +1,4 @@
-# 🎓 Yolo-Classroom-Action-Tracker
+# Yolo-Classroom-Action-Tracker
 
 **Real-time classroom student behavior & engagement monitoring, powered by YOLOv8.**
 
